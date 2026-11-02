@@ -1,0 +1,32 @@
+.navbar{padding:18px 0;transition:background .3s,padding .3s}
+.navbar.scrolled{background:rgba(7,9,20,.85);backdrop-filter:blur(10px);padding:10px 0;box-shadow:0 8px 30px rgba(0,0,0,.4)}
+.brand{font-weight:700;font-size:1.6rem}
+.brand span{color:var(--c2)}
+.nav-link{position:relative}
+.nav-link::after{content:"";position:absolute;left:12px;right:12px;bottom:2px;height:2px;background:var(--c2);transform:scaleX(0);transition:transform .3s}
+.nav-link:hover::after,.nav-link.active::after{transform:scaleX(1)}
+.nav-link.active{color:#fff!important}
+.navbar-collapse.show{background:rgba(7,9,20,.96);border-radius:14px;padding:10px;margin-top:10px}
+.section{padding:90px 0;position:relative}
+.sec-title{text-align:center;font-weight:800;font-size:clamp(1.9rem,4vw,2.8rem);margin-bottom:12px}
+.sub{text-align:center;color:var(--mut);max-width:700px;margin:0 auto 44px}
+.page-hero{padding:150px 0 40px;text-align:center}
+.page-hero h1{font-weight:800;font-size:clamp(2.2rem,5vw,3.6rem)}
+.crumbs{color:var(--mut);font-size:.85rem;letter-spacing:1px;text-transform:uppercase}
+.crumbs a{text-decoration:none}
+.hero{min-height:100vh;padding:120px 0 70px;position:relative}
+.hero h1{font-weight:800;font-size:clamp(2.2rem,5.5vw,4rem);line-height:1.1}
+.eyebrow{color:var(--c2);letter-spacing:2px;text-transform:uppercase;font-size:.85rem}
+.typed{font-size:clamp(1.3rem,3vw,2rem);min-height:2.4rem;margin:14px 0}
+.caret{display:inline-block;width:3px;height:1.4em;background:var(--c2);margin-left:4px;vertical-align:middle;animation:blink 1s step-end infinite}
+.lead-text{color:var(--mut);max-width:600px}
+.scroll-hint{position:absolute;bottom:26px;left:50%;width:26px;height:44px;border:2px solid #7d86b3;border-radius:20px;transform:translateX(-50%)}
+.scroll-hint i{position:absolute;left:50%;top:8px;width:4px;height:8px;margin-left:-2px;background:var(--c2);border-radius:4px;animation:wheel 1.6s infinite}
+.foot{padding:60px 0 24px;border-top:1px solid rgba(255,255,255,.1);color:var(--mut);background:rgba(7,9,20,.8)}
+.foot h6{color:#fff;margin-bottom:14px}
+.foot ul{list-style:none;padding:0;margin:0}
+.foot li{margin-bottom:8px}
+.foot a{text-decoration:none;color:var(--mut);transition:color .2s}
+.foot a:hover{color:var(--c2)}
+.foot .copy{border-top:1px solid rgba(255,255,255,.08);margin-top:34px;padding-top:20px;text-align:center}
+.cta{padding:50px 30px;text-align:center;background:linear-gradient(135deg,rgba(108,92,231,.3),rgba(0,210,255,.18))}

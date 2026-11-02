@@ -1,0 +1,14 @@
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes shine{to{background-position:250% center}}
+@keyframes blink{50%{opacity:0}}
+@keyframes wheel{to{transform:translateY(16px);opacity:0}}
+@keyframes bob{50%{transform:translateY(-12px) scale(1.06)}}
+@keyframes pfloat{0%,100%{transform:translateY(0) rotateY(-4deg) rotateX(1deg)}50%{transform:translateY(-14px) rotateY(4deg) rotateX(-1deg)}}
+@keyframes ringa{from{transform:rotateX(70deg) rotateZ(0)}to{transform:rotateX(70deg) rotateZ(360deg)}}
+@keyframes ringb{from{transform:rotateY(70deg) rotateZ(0)}to{transform:rotateY(70deg) rotateZ(-360deg)}}
+@keyframes marquee{to{transform:translateX(-50%)}}
+.reveal{opacity:0;transform:translateY(40px) scale(.97);transition:opacity .8s ease,transform .8s var(--ease);will-change:opacity,transform}
+.reveal.in{opacity:1;transform:none}
+.page-in main{animation:pagein .7s var(--ease) both}
+@keyframes pagein{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}}
