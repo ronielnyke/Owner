@@ -1,0 +1,128 @@
+PROPRIETARY SOFTWARE LICENSE - ALL RIGHTS RESERVED
+
+Portfolio Website of Roniel Nyke Gonzales
+Copyright (c) 2026 Roniel Nyke Gonzales. All rights reserved.
+
+Copyright Holder: Roniel Nyke Gonzales
+Contact:          ronielnyke@gmail.com
+Location:         Brgy. Sibaguan, Lambunao, Iloilo, Philippines
+
+
+1. DEFINITIONS
+
+   "Software" means this portfolio website and everything in this project,
+   including its HTML, CSS and JavaScript source code, design, layout,
+   animations, text, descriptions, logos, graphics, icons created for it,
+   the owner's name, photographs and likeness, and all documentation.
+
+   "Owner" means Roniel Nyke Gonzales.
+
+   "You" means any person or organization that accesses or receives the Software.
+
+
+2. OWNERSHIP
+
+   The Software is original work created by the Owner and is protected by
+   copyright under the Intellectual Property Code of the Philippines
+   (Republic Act No. 8293) and by applicable international copyright treaties.
+   No ownership rights are transferred to You. All rights not expressly granted
+   in this license are reserved by the Owner.
+
+
+3. PERMITTED USE
+
+   You may, without asking for permission:
+
+   a) View and browse the published website in a web browser.
+   b) Link to the website from your own pages, messages or documents.
+   c) Quote short parts of the website text with clear credit to
+      "Roniel Nyke Gonzales" and a link to the original website.
+   d) Download a copy only to evaluate it privately on your own device
+      (for example, a recruiter or teacher reviewing the work). You must not
+      publish or share that copy.
+
+
+4. RESTRICTIONS
+
+   Without the prior written permission of the Owner, You must NOT:
+
+   a) Copy, reproduce, clone or re-host the Software or any substantial part of it.
+   b) Modify, adapt, translate or create derivative works based on the Software,
+      including using its design or code as a template for another website.
+   c) Distribute, publish, upload, sell, rent, lease, sublicense or otherwise
+      make the Software available to any third party, free or paid.
+   d) Remove, hide or change any copyright notice, credit, license text or
+      author information.
+   e) Claim the Software, or any part of it, as your own work.
+   f) Use the Owner's name, photographs, likeness, logos or branding to suggest
+      endorsement, affiliation or authorship.
+   g) Use the Software, its content or its source code to build, train or
+      improve a competing product or an automated dataset without permission.
+   h) Reverse engineer, scrape or bulk-download the Software for any purpose
+      other than the private evaluation allowed in Section 3(d).
+
+
+5. THE OWNER'S OTHER SYSTEMS
+
+   The systems presented on this website (CodeLens AI Pro, Capstone IQ,
+   CODEMIND, CODEVERSE and the other listed projects) are separate works.
+   Each system is governed by its own license and notices. Nothing in this
+   license grants any right to those systems or their source code.
+
+
+6. THIRD-PARTY COMPONENTS
+
+   The Software loads the following third-party components from public CDNs.
+   They are not owned by the Owner and remain under their own licenses:
+
+   - Bootstrap 5.3.3 ......... MIT License (c) The Bootstrap Authors
+   - Three.js r128 ........... MIT License (c) three.js authors
+   - Poppins and Space Grotesk fonts ... SIL Open Font License 1.1,
+     provided through Google Fonts
+
+   This license does not change the terms of those components.
+
+
+7. PERMISSION REQUESTS
+
+   To request permission to use any part of the Software, email the Owner at
+   ronielnyke@gmail.com. Describe what you want to use, where, and why.
+   Permission is valid only when it is given in writing by the Owner.
+
+
+8. TERMINATION
+
+   Any use that breaks this license automatically ends Your permissions under
+   Section 3. You must then immediately stop using the Software and delete
+   every copy that You hold. The Owner may take legal action to enforce his rights.
+
+
+9. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+
+10. LIMITATION OF LIABILITY
+
+    IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+    FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE.
+
+
+11. GOVERNING LAW
+
+    This license is governed by the laws of the Republic of the Philippines.
+    Any dispute shall be brought before the proper courts of the Philippines.
+
+
+12. ENTIRE AGREEMENT
+
+    This license is the complete agreement about the Software. If any part of it
+    is found to be unenforceable, the remaining parts stay in effect.
+
+
+Copyright (c) 2026 Roniel Nyke Gonzales - BS INFO TECH 2-B
+West Visayas State University - Lambunao Campus
+All rights reserved.
